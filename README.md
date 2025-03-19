@@ -84,3 +84,5 @@ For any queries or feedback, please reach out:
 - **Amit Kumar**
 - [GitHub Profile](https://github.com/amit-soham-16)
 - Email: [amitk1602info@gmail.com](mailto:amitk1602info@gmail.com)
+
+⭐ **If you like this project, give it a star!** ⭐
